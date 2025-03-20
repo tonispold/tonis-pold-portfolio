@@ -2,10 +2,10 @@ import { Box, Typography } from "@mui/material";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import img1 from "../assets/murdmaa_suusk.jpeg";
-import img2 from "../assets/lopetamine.jpg";
-import img3 from "../assets/maesuusk_1.jpeg";
-import img4 from "../assets/maesuusk_2.jpeg";
+import img3 from "../assets/murdmaa_suusk.jpeg";
+import img1 from "../assets/lopetamine.jpg";
+import img4 from "../assets/maesuusk_1.jpeg";
+import img2 from "../assets/portree.jpg";
 
 import { useState } from "react";
 

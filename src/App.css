@@ -177,6 +177,7 @@ h2 {
 
 #projects .grid-card {
   width: 90%;
+  border-radius: 10px;
 }
 
 #skills .skills-box {
@@ -226,6 +227,10 @@ h2 {
   object-fit: cover;
 }
 
+
+#about .slick-prev:before, #about .slick-next:before {
+  color: rgba(0, 0, 0, 0.6);
+}
 
 
 
@@ -287,7 +292,7 @@ h2 {
   }
 
   #about .slick-list {
-    height: 300px;
+    height: 310px;
   }
 
   #about .about-text, #skills .skills-box {

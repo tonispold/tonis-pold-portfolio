@@ -1,6 +1,6 @@
 import { Box, Button, Typography } from "@mui/material";
-import skillsImage from "../assets/skills.png";
-import skillsBackImage from "../assets/lopetamine.jpg";
+import skillsImage from "../assets/Skills.gif";
+import skillsBackImage from "../assets/portree_bw.jpg";
 import { Email, GitHub, LinkedIn } from "@mui/icons-material";
 
 function SkillsSection() {

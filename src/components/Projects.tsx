@@ -26,7 +26,7 @@ function ProjectsSection() {
       description:
         "Such banners i developed during my internship at häk digital marketing agency. The banners and the animations were different depending on the campaign. These banners were developed with HTML, Sass and Javascript.",
       image: portfolioBanner,
-      link: "/projects/banner/banner.html",
+      link: "/tonis-pold-portfolio/projects/banner/banner.html",
     },
     {
       title: "Retail company Meie toidukaubad websites rebranding",
@@ -89,7 +89,7 @@ function ProjectsSection() {
 
                 <Box
                   sx={{
-                    maxHeight: hoveredIndex === index ? "180px" : "0px", // Max height transition works smoothly
+                    maxHeight: hoveredIndex === index ? "200px" : "0px", // Max height transition works smoothly
                     opacity: hoveredIndex === index ? 1 : 0,
                     transform:
                       hoveredIndex === index
